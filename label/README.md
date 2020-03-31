@@ -6,7 +6,7 @@ You have a folder with files:
 
 <img src="images/data.PNG" alt="Your data">
 
-You want a csv file like that: 
+You want to have a csv file like that: 
 
 <img src="images/csv.PNG" alt="Csv file">
 
