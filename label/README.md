@@ -4,11 +4,11 @@ filenames and labels. Just look at the following example.
 
 You have a folder with files: 
 
-<img src="images/data.png" alt="Your data">
+<img src="images/data.PNG" alt="Your data">
 
 You want a csv file like that: 
 
-<img src="images/csv.png" alt="Csv file">
+<img src="images/csv.PNG" alt="Csv file">
 
 Take the following steps: 
 
@@ -34,15 +34,15 @@ and start the step-by-step instruction typing:
 
     create_csv()
 
-<img src="images/scr1.png" alt="Screenshot 1"> <br/>
+<img src="images/scr1.PNG" alt="Screenshot 1"> <br/>
 
-<img src="images/scr2.png" alt="Screenshot 2"> <br/>
+<img src="images/scr2.PNG" alt="Screenshot 2"> <br/>
 
-<img src="images/scr3.png" alt="Screenshot 3"> <br/>
+<img src="images/scr3.PNG" alt="Screenshot 3"> <br/>
 
-<img src="images/scr4.png" alt="Screenshot 4"> <br/>
+<img src="images/scr4.PNG" alt="Screenshot 4"> <br/>
 
-<img src="images/scr5.png" alt="Screenshot 5"> <br/>
+<img src="images/scr5.PNG" alt="Screenshot 5"> <br/>
 
-<img src="images/scr6.png" alt="Screenshot 6"> <br/>
+<img src="images/scr6.PNG" alt="Screenshot 6"> <br/>
     
