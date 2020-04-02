@@ -1,4 +1,4 @@
-from label import label
+from .label import label
 import sys
 
 def create_csv():
